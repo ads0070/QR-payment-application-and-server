@@ -5,8 +5,8 @@ This repository contains:
 1. Java-based application written in [client](https://github.com/jsb12302/android/tree/master/client) file
 2. Spring server written in [server](https://github.com/jsb12302/android/tree/master/server) file
 
-The project is an application and server with a QR ordering system that will replace the kiosk.
-
+This project is a team project in the Mobile Computing course in the 2nd semester of the 2021 3rd year of Computer Software Engineering at Dong-eui University.
+The Program is an application and server with a QR ordering system to replace the kiosk.
 
 ## Table of Contents
 
