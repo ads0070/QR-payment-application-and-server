@@ -1,4 +1,5 @@
-## QR payment application and server
+# 2021년도 3학년 2학기 모바일컴퓨팅
+## 팀 초코파이썬칩 - QR payment application and server
 
 This repository contains:
 
